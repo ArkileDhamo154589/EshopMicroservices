@@ -1,4 +1,4 @@
-﻿using MediatR;
+﻿
 using BuildingBlocks.CQRS;
 using System.Windows.Input;
 using Catalog.API.Models;
